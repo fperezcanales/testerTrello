@@ -1,10 +1,10 @@
+# Please, read the manual to execute the test cases:
+
+https://drive.google.com/open?id=0B3W0A6AYt-m4YkhVMU90aVR6LWM
 
 # Download the jar trellorTester.jar.
-trellorTester.jar
-https://drive.google.com/open?id=0B3W0A6AYt-m4TGZMajdBdC1MTTQ
 
-Tutorial (Manual)
-https://drive.google.com/open?id=0B3W0A6AYt-m4YkhVMU90aVR6LWM
+https://drive.google.com/open?id=0B3W0A6AYt-m4TGZMajdBdC1MTTQ
 
 # Execute command line (Windows CMD): 
 java -jar "C:\Users\Fernando\Downloads\trellorTester.jar"
