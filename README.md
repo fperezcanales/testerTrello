@@ -4,7 +4,7 @@ https://drive.google.com/open?id=0B3W0A6AYt-m4YkhVMU90aVR6LWM
 
 # Download the jar trellorTester.jar.
 
-https://drive.google.com/open?id=0B3W0A6AYt-m4TGZMajdBdC1MTTQ
+https://drive.google.com/open?id=0B3W0A6AYt-m4UTVuWVBzclcwR2s
 
 # Execute command line (Windows CMD): 
 java -jar "C:\Users\Fernando\Downloads\trellorTester.jar"
